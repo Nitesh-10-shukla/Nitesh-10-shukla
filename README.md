@@ -8,3 +8,21 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: ...Listening Songs 2-3 hour's everyday.
 
+### Hi there 👋, Nitesh Shukla
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/1214956097296953344/1623826429/1080x360)
+
+A self-motivated Web Developer. Passionate
+and hardworking with penchant for meeting
+deadlines. Interested in exploring things and
+learning many new things and also in role with company promoting best practices and offering diverse customer projects.
+
+Skills: HTML,CSS,JAVASCRIPT,REACTJS,PYTHON,DJANGO
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
