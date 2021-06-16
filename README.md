@@ -3,7 +3,6 @@
 - 🔭 I’m currently looking for opportunity.
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on Youtube.
-<!-- - 🤔 I’m looking for help with . -->
 - 💬 Ask me about Python or anytech related stuff.
 - 📫 How to reach me: ...[Website](https://niteshshukla.netlify.app/)
 - 😄 Pronouns: He/His.
