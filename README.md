@@ -18,7 +18,7 @@ learning many new things and also in role with company promoting best practices 
 ##Skills and Experiance:-
 * 💻 HTML/CSS/JavaScript
 * ⚛  React
-* 🕸  Pyhton & Django
+* 🕸  Node & MongoDB
 * 📅 Sql
 
 <h3 align="center">A passionate Web developer from India</h3>
