@@ -2,24 +2,24 @@
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1214956097296953344/1623826429/1080x360)
 
-A self-motivated Web Developer. Passionate
-and hardworking with penchant for meeting
-deadlines. Interested in exploring things and
-learning many new things and also in role with company promoting best practices and offering diverse customer projects.
+I'm a dynamic web developer fueled by a relentless curiosity and a drive to create meaningful digital experiences.
+With over 2 years of dedicated practice, 
+I've honed my skills across the full stack, embracing challenges with a tenacity to learn and grow
 
-- 🔭 I’m currently looking for opportunity.
-- 🌱 I’m currently learning MERN Stack.
-- 👯 I’m looking to collaborate on Youtube.
-- 💬 Ask me about Python or anytech related stuff.
-- 📫 How to reach me:-[Website](https://niteshshukla.netlify.app/)
+- 🔭 Seeking opportunities to merge my technical prowess with innovative projects.
+- 🌱 Currently immersing myself in the depths of the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+- 👯 Eager to collaborate on exciting ventures and share insights through captivating content on YouTubee.
+- 💬 Let's dive into discussions on Js or any tech-related wonders!.
+- 📫 Reach out to me through my [portfolio](https://niteshshukla.netlify.app/) to explore collaborations or simply share a virtual coffee!
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact:-Listening Songs 2-3 hour's everyday.
+-⚡ Fun fact: Music is my daily muse; you'll catch me grooving to beats for hours on end!
 
-##Skills and Experiance:-
-* 💻 HTML/CSS/JavaScript
-* ⚛  React
-* 🕸  Node & MongoDB
-* 📅 Sql
+Skills and Experience:-
+* 💻 HTML/CSS, CSS Libraries
+* ⚛  JavaScript, TypeScript, React, Next.js, GraphQL (Client)
+* 🕸  Node.js, Express.js, GraphQL (Server), SQL, MongoDB
+* 📅 Git, SonarQube, Jenkins
+* 🛠 Chrome Extensions Development
 
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -27,7 +27,7 @@ learning many new things and also in role with company promoting best practices 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh-10-shukla" alt="nitesh-10-shukla" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://niteshshukla.netlify.app/](https://niteshshukla.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shuklanitesh.netlify.app/](https://shuklanitesh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,7 @@ learning many new things and also in role with company promoting best practices 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-10-shukla&show_icons=true&locale=en" alt="nitesh-10-shukla" /></p>
 
