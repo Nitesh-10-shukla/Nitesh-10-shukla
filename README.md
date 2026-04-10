@@ -1,28 +1,35 @@
-<h1 align="center">Hi 👋, I'm Nitesh</h1>
+<h1 align="center">Hi 👋, I'm Nitesh Shukla</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Building Scalable Web Apps</h3>
+<h3 align="center">🚀 Full Stack Developer | 4+ Years Experience | AI + SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+AI+Powered+SaaS;4%2B+Years+of+Experience;Performance+Focused+Engineer" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 💻 Passionate **Full Stack Developer**
-- ⚡ Working with **React, Next.js, TypeScript, Node.js**
-- 🚀 Love building **scalable & performant applications**
-- 🧠 Always learning & exploring new technologies
-- 🌍 Goal: Build impactful products for real-world problems
+- 💼 Software Developer with **4+ years of experience**
+- ⚡ Specialized in **React, Next.js, TypeScript**
+- 🤖 Built **AI-powered SaaS platforms using OpenAI APIs**
+- 🧩 Strong in **System Design, Performance Optimization & Scalable Architecture**
+- ☁️ Experience with **AWS, GCP, Docker & CI/CD**
+- 👨‍🏫 Mentored developers & improved team productivity
 
 ---
 
-## 🔗 Portfolio
+## 🔗 Portfolio & Links
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://niteshverse.vercel.app">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/d2n">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:niteshshukla1696@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -31,61 +38,71 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,git,github,postman" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,redux,tailwind,aws,gcp,docker,git,github,postman" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Experience Highlights
 
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+### 🚀 Software Developer — Devtrust (2022 – Present)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+- ⚡ Led frontend architecture for **3+ production apps (SaaS, AI, Travel)**
+- 📉 Improved performance: **FCP reduced from 4s → under 2s**
+- 🔁 Reduced API calls by **40% using React Query & Apollo caching**
+- 🧩 Built reusable component systems across multiple projects
+- 🧠 Mentored **4 developers** with code standards & reviews
 
 ---
 
-## 🔥 GitHub Streak
+### 👨‍💻 Software Developer Trainee — Cedcoss (2021 – 2022)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+- 📱 Built **8+ responsive UI screens**
+- 🧠 Implemented **Redux Toolkit architecture**
+- ✅ Achieved **85%+ test coverage** with Jest & Cypress
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
+### 🌍 Guide to Europe  
+- Next.js + GraphQL + Apollo  
+- ⚡ Reduced bundle size **30% (2.1MB → 1.5MB)**  
+- 🔍 Implemented SSR + SEO optimization  
+
+---
+
+### 🤖 Promolytics (AI SaaS)  
+- React + Node.js + OpenAI API  
+- ⚡ AI survey generation → reduced hours → minutes  
+- 🔐 JWT Auth + RBAC + Twilio integration  
+
+---
+
+### 🧩 Walead AI + Chrome Extension  
+- Next.js + Manifest V3 + GCP  
+- 🔄 Real-time sync via WebSockets  
+- ☁️ Docker + Cloud Run deployment  
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=niteshshukla1696&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+## 🎓 Education
+
+🎓 B.Tech in Computer Science  
+📍 Goel Institute of Technology & Management, Lucknow  
 
 ---
 
 ## 💡 Fun Fact
 
-> I turn ☕ coffee into scalable code 😄
+> I optimize performance so well, even slow APIs feel fast ⚡
 
 ---
